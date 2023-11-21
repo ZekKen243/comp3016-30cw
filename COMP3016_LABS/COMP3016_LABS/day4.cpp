@@ -71,6 +71,7 @@ void Day4::Day4Ending()
 			Sleep(900);
 		}
 		fileToRead.close();
+		system("Pause");
 		exit(0);
 	}
 }
