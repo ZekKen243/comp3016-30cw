@@ -1,0 +1,27 @@
+Alright... work clothes check... boots check... lunch check... I should be just ready for work.
+
+You step out your house to commute to work, busy streets and busy areas all around.
+You arrive at the port to the site of your boss.
+
+BOSS: "Welcome to your first day, I see you're new here"
+      "Don't worry, first few days aren't that bad, I'll get you through the basics"
+
+      "Below is an example profile of a cargo you must assess"
+
+PROFILE
+===================
+A - BATCH
+3m - WIDTH
+10m - LENGTH
+5m - HEIGHT
+250kg - WEIGHT
+===================
+
+BOSS: "On each day, there are different restrictions a cargo must fit under in order to be let through"
+      "If they don't fit in, don't allow them. If they do, you can let them pass, simple as that."
+      "You'll get warning strikes for any wrong passes, get too many and you'll be let go."
+
+      "Good luck out there."
+
+You prepare your clipboard and pen... and look through the containers to be processed today.
+

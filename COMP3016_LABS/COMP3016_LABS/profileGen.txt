@@ -1,0 +1,9 @@
+PROFILE
+===================
+B - BATCH
+8m - WIDTH
+11m - LENGTH
+2m - HEIGHT
+130kg - WEIGHT
+===================
+
