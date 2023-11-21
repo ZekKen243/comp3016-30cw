@@ -166,6 +166,7 @@ void Game::Ending()
 			Sleep(900);
 		}
 		fileToRead.close();
+		system("Pause");
 	}
 }
 

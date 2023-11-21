@@ -1,3 +1,3 @@
 ﻿G:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (COMP3016_LABS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  day4.cpp
+  day_playing.cpp
   COMP3016_LABS.vcxproj -> C:\Users\Ken\source\repos\COMP3016_LABS\x64\Debug\COMP3016.exe
