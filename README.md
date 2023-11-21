@@ -5,7 +5,7 @@ GitHub repository for COMP3016 30% coursework
 **Visual Studio version: 2022**
 
 ## Game details
-The game plays through a **.exe** file provided in the**.zip** folder
+The game plays through a **.exe** file provided in the **.zip** folder
 It is also available as a non-zipped folder called Debug
 
 Game plays through a console, where the player only needs to type and press Enter to execute actions
