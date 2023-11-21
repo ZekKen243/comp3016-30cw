@@ -15,4 +15,4 @@ There are also **.txt** documents that store info such as the game story and its
 
 ## YouTube link
 
-[Vidoe](https://youtu.be/m-N-Hs19NGA)
+[Video](https://youtu.be/m-N-Hs19NGA)
